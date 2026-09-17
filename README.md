@@ -4,7 +4,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1100&color=FF7A45&center=true&vCenter=true&width=750&lines=🚀+Turning+Ideas+Into+Real+Projects;💡+Think.+Code.+Create.+Improve.;✨+Learning+Today%2C+Building+Tomorrow;🔥+One+Commit+Closer+Every+Day;🤖+Exploring+AI%2C+RAG+%26+Full+Stack+Development" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF7A45&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Real+Projects;Think+Code+Create+Improve;Learning+Today+Building+Tomorrow;One+Commit+Closer+Every+Day;Exploring+AI+RAG+and+Full+Stack+Development" />
+</p>
 
 <br><br>
 
