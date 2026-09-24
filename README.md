@@ -28,7 +28,7 @@
 
 Hello! I'm **Faisal Khan** 👋
 
-I'm an **MCA student and Full Stack Developer** who enjoys building
+I'm an **MCA student and Developer** who enjoys building
 practical applications and exploring modern technologies.
 
 I like turning ideas into working projects and continuously improving
@@ -36,7 +36,7 @@ my programming, problem-solving and development skills.
 
 ```text
 🎓 Education       → MCA
-💻 Role            → Full Stack Developer
+💻 Role            → Developer
 🤖 Interest        → AI / Generative AI / RAG
 🌐 Development     → Web & Backend Applications
 🧠 Problem Solving → Data Structures & Algorithms
