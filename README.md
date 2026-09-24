@@ -38,7 +38,7 @@ my programming, problem-solving and development skills.
 🎓 Education       → MCA
 💻 Role            → Developer
 🤖 Interest        → AI / Generative AI / RAG
-🌐 Development     → Web & Backend Applications
+🌐 Development     → Application Development
 🧠 Problem Solving → Data Structures & Algorithms
 🚀 Mindset         → Learn • Build • Improve
 🌟 What I Do
